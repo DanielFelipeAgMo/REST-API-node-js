@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "name": "Daniel Felipe",
+        "lastname": "Agudelo Molina",
+        "bornyear" : "1987",
+        "gender" : "Masculino",
+        "Tall" : "180",
+        "age" : "35",
+        "profession" : "Ingeniero"
+    },
+    {
+        "id": 2,
+        "name": "Pepito ",
+        "lastname": "Perez",
+        "bornyear" : "1950",
+        "gender" : "Masculino",
+        "Tall" : "200",
+        "age" : "72",
+        "profession" : "Todero"
+    }
+]
