@@ -2,7 +2,9 @@ const { Router} = require('express');
 const router = Router();
 
 const personas = require('../bd/bd.json');
+//console.log(personas)
 const _ = require('underscore');
+
 
 router.get('/personas',(req, res) => {
     res.json(personas);
